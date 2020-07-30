@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<style>
+#left{
+    float:left;
+}
+#right{
+    float:right;
+    width: 220px;
+    margin-left:30px;
+}
+    
+</style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/w3css/3/w3.css">
+<body>
+<nav>
+<a href="/html/" style="color:black">Home</a> |
+<a href="/css/" style="color:black"> Condo details</a> |
+<a href="/js/" style="color:black">rates</a> |
+<a href="/python/" style="color:black">Availability</a>|
+<a href="/css/" style="color:black">Booking</a> |
+<a href="/js/" style="color:black"> Brochures</a> |
+<a href="/python/" style="color:black">Kaui</a>
+</nav>
+</body>
+<header style="background-color:green;">
+<br>
+<img src="C:\Users\lenovo\Desktop\kauai\headerLeft.jpg" height="80">
+<img src="C:\Users\lenovo\Desktop\kauai\headerRight.jpg" align="right" height="80">
+</header>
+<section class="indent-1">
+    <!-- Section 1 --> 
+    <section id="left">
+        <h3> Welcome to the cliffs at PrinceVille 730!</h3>
+    <img src="C:\Users\lenovo\Desktop\kauai\mainImage.jpg" height="120" width="250" align="left">
+    <p>The Cliffs at PrinceVille 7301 in PrinceVille, Kaui is the best vacation 
+        rental condo bargain available!</p>
+    <h2> Details</h2>
+    <p>The Cliffs at PrinceVille 7301 is a spacious <b> 2 bedroom Kaui condo</b> 
+        that encounters over<b>150 square feet</b>of opulence
+        all dedicated to your comfortwhen you are not exploring
+        the splenders of <b>Kaui's North Shore</b>
+        the most luxuraint part of the most beautiful islands of Hawai</p>
+    <p>A virtual homeway away from home, this condo in Kaui's PrinceVille
+         resort and golf community features the following:</p>
+    </section>
+
+    <!-- Section 2 -->
+    <section id="right">
+        <table style="background-color:orange">
+            <tr>
+                <td style="background-color: orangered;">Photos</a></td>
+            </tr>
+            <tr>
+              <td><a href="" target="_blank"style="color:white">Photos of Condo</a></td>
+             </tr>
+            <tr>
+                <td><a href="" target="_blank"style="color:white">View of Condo</a></td>
+            </tr>
+            <tr>
+                <td><a href="" target="_blank"style="color:white">Photos of the cliff</a></td>
+            </tr>
+            <tr>
+                <td><a href="" target="_blank"style="color:white">Kaui Scenery</a></td>
+            </tr>
+            <tr>
+                <td><a href="" target="_blank"style="color:white">Kaui beaches</a></td>
+            </tr>
+            <tr>
+                <td style="background-color: orangered;">The Cliffs</td>
+            </tr>
+            <tr>
+                <td><a href="" target="_blank"style="color:white">Resort details</a></td>
+              </tr>
+              <tr>
+                <td><a href="" target="_blank"style="color:white">PrinceVille and Golf Courses</a></td>
+              </tr>
+              <tr>
+                <td><a href="" target="_blank"style="color:white">Activities</a></td>
+              </tr>
+              <tr>
+                <td><a href="" target="_blank"style="color:white">Locations</a></td>
+              </tr>
+              <tr>
+                <td><a href="" target="_blank"style="color:white">Directions</a></td>
+              </tr>
+              <tr>
+                <td style="background-color: orangered;">Reviews</a></td>
+              </tr>
+              <tr>
+                <td><a href="" target="_blank"style="color:white">Guest comments</a></td>
+              </tr>
+              <tr>
+                <td><a href="" target="_blank"style="color:white">Review us</a></td>
+              </tr>
+          </table>
+          
+    </section>
+    <ul>
+        <li>a large, breezy living roommoverlooking the Pacific ocean</li>
+        <li>a complete kitchen</li>
+        <li>two bedrooms</li>
+        <li>two full baths</li>
+        <li>two privatye lanias to enjoy the tranquility of the island</li>
+      </ul>
+      <p> The unit is large enough to accomadate five adults</p>
+      <p>Continously remodelled and upgraded, this unit is one of the best in <b>Five Star CLiffs at PrinceVille Kasusi condo resort,</b>has never been nicer!</p>
+<h3>Golfer's Paradise</h3>
+<p>Guests staying are entitled to a substanial discound of not one, two of <a href="" target="_blank" style="color: blue;">most magnificient golf courses in the world.</a>What a deal!</p>
+<h3>Features</h3>
+<ul>
+    <li>reasonable rates for exceptional accomodations</li>
+    <li>an excellent ocean view</li>
+    <li>wonderful resort facilities</li>
+    <li>whale watching from the living room lanai from November to March</li>
+    <li>excellent snorkelling sites located just a few drive away</li>
+    <li>an Ethernet connection for hi-speed Internet (free for our renters)</li>
+  </ul>
+</section> 
+<hr>
+<section >
+    <img src="C:\Users\lenovo\Desktop\kauai\quoteOpen.gif" height="40" align="left">
+    <p><i>This unit is just wonderful-view, sunrise and spaciousness!</i><img src="C:\Users\lenovo\Desktop\kauai\quoteClose.gif" height="40"></p>
+    <br>
+    <img src="C:\Users\lenovo\Desktop\kauai\quoteOpen.gif" height="40" align="left">
+    <p><i>Everthing here is very comfortable and clean. Views are outstanding and breze is wonderful! We will definitely come back!</i><img src="C:\Users\lenovo\Desktop\kauai\quoteClose.gif" height="40"></p>
+</section>
+<section style="background-color: gray;"align="center">
+    <p>Click our <a href="" target="_blank"style="color:blue">Availablity Calender</a> to check availability, or</p>
+    <p>fill out our<a href="" target="_blank"style="color:blue">Booking form</a> to make reservations, or</p>
+    <p>call the Mellemas at(626)351-0405 or</p>
+<p>e-mail <a href="" target="_blank"style="color:blue">inquiry@go-kauvi.com</a>for questions.</p></section>
+<section align="center">
+    <nav>
+    <a href="/html/" style="color:blue">FAQs</a> |
+    <a href="/css/" style="color:blue"> Privacy Policy</a> |
+    <a href="/js/" style="color:blue">About us</a> |
+    <a href="/python/" style="color:blue">Contact us</a>|
+    
+    </nav>
+</section>
+</html>
+
+
+
+
